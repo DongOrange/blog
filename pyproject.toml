@@ -13,6 +13,7 @@ psycopg2 = "^2.9.9"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.8.0"
+commitizen = "^3.29.1"
 
 [build-system]
 requires = ["poetry-core"]
